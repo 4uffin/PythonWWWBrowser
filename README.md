@@ -1,4 +1,4 @@
-**Note:** This is a basic, proof-of-concept web browser. It is intended as a framework for building a more advanced browser, not as a full-featured application for daily use. Or hey, maybe you want the most dumbed-down browser for daily use, well then, here you go!
+**Note:** This is a basic, proof-of-concept web browser. It is intended as a framework for building a more advanced browser, not as a full-featured application for daily use. Or hey, maybe you want the most dumbed-down web browser for daily use, well, here you go!
 
 # Simple Python Browser (Blueprint)
 This project is a functional, tabbed web browser built using Python with the PyQt5 and QtWebEngine libraries. It features a custom dark theme and essential browsing tools, serving as a great starting point for further development.
